@@ -1,0 +1,889 @@
+﻿order_id,customer_id,order_date,order_status,origin_city,destination_city
+ORD00080703,CUST00165,2024-11-01,Completed,Phoenix,Kansas City
+ORD00080704,CUST00114,2024-11-01,Completed,Chicago,Los Angeles
+ORD00080705,CUST00028,2024-11-01,Completed,Atlanta,Miami
+ORD00080711,CUST00153,2024-11-01,Completed,Dallas,New York
+ORD00080712,CUST00098,2024-11-01,Completed,Philadelphia,Seattle
+ORD00080715,CUST00114,2024-11-01,Completed,Phoenix,Denver
+ORD00080720,CUST00154,2024-11-01,Completed,Las Vegas,New York
+ORD00080723,CUST00100,2024-11-01,Completed,Portland,Seattle
+ORD00080724,CUST00035,2024-11-01,Completed,Atlanta,Chicago
+ORD00080725,CUST00126,2024-11-01,Completed,Dallas,Denver
+ORD00080728,CUST00028,2024-11-01,Completed,Kansas City,Charlotte
+ORD00080729,CUST00028,2024-11-01,Completed,Las Vegas,Kansas City
+ORD00080747,CUST00010,2024-11-01,Completed,Columbus,Los Angeles
+ORD00080748,CUST00191,2024-11-01,Completed,Las Vegas,Dallas
+ORD00080750,CUST00004,2024-11-01,Completed,Chicago,Charlotte
+ORD00080751,CUST00006,2024-11-01,Completed,Seattle,Indianapolis
+ORD00080766,CUST00177,2024-11-01,Completed,Dallas,Denver
+ORD00080767,CUST00154,2024-11-01,Completed,Chicago,Los Angeles
+ORD00080772,CUST00183,2024-11-01,Completed,Minneapolis,Los Angeles
+ORD00080779,CUST00154,2024-11-02,Completed,Chicago,Charlotte
+ORD00080785,CUST00158,2024-11-02,Completed,Seattle,Charlotte
+ORD00080792,CUST00028,2024-11-02,Completed,New York,Columbus
+ORD00080795,CUST00179,2024-11-02,Completed,Phoenix,Philadelphia
+ORD00080811,CUST00052,2024-11-02,Completed,Detroit,Houston
+ORD00080814,CUST00100,2024-11-02,Completed,Kansas City,Portland
+ORD00080831,CUST00114,2024-11-02,Completed,Seattle,Indianapolis
+ORD00080848,CUST00007,2024-11-02,Completed,Miami,Seattle
+ORD00080852,CUST00111,2024-11-02,Completed,Detroit,Houston
+ORD00080853,CUST00153,2024-11-02,Completed,Charlotte,Portland
+ORD00080856,CUST00108,2024-11-02,Completed,Portland,Columbus
+ORD00080858,CUST00166,2024-11-03,Completed,Kansas City,Atlanta
+ORD00080864,CUST00154,2024-11-03,Completed,Miami,Philadelphia
+ORD00080874,CUST00095,2024-11-03,Completed,Dallas,New York
+ORD00080878,CUST00180,2024-11-03,Completed,Miami,Philadelphia
+ORD00080889,CUST00114,2024-11-03,Completed,New York,Philadelphia
+ORD00080892,CUST00016,2024-11-03,Completed,Houston,Detroit
+ORD00080897,CUST00042,2024-11-03,Completed,Dallas,Denver
+ORD00080904,CUST00180,2024-11-03,Completed,Seattle,Houston
+ORD00080909,CUST00158,2024-11-03,Completed,Dallas,Denver
+ORD00080918,CUST00065,2024-11-03,Completed,Portland,Detroit
+ORD00080919,CUST00172,2024-11-03,Completed,Dallas,Indianapolis
+ORD00080926,CUST00186,2024-11-03,Completed,Chicago,Los Angeles
+ORD00080927,CUST00126,2024-11-03,Completed,Portland,Seattle
+ORD00080929,CUST00004,2024-11-03,Completed,Miami,Philadelphia
+ORD00080931,CUST00126,2024-11-04,Completed,Houston,Memphis
+ORD00080933,CUST00040,2024-11-04,Completed,Seattle,Houston
+ORD00080939,CUST00126,2024-11-04,Completed,Memphis,Los Angeles
+ORD00080951,CUST00006,2024-11-04,Completed,Columbus,Kansas City
+ORD00080954,CUST00010,2024-11-04,Completed,Dallas,New York
+ORD00080956,CUST00184,2024-11-04,Completed,Seattle,Charlotte
+ORD00080957,CUST00050,2024-11-04,Completed,Houston,Seattle
+ORD00080980,CUST00191,2024-11-04,Completed,Houston,Detroit
+ORD00081000,CUST00116,2024-11-04,Completed,Chicago,Portland
+ORD00081001,CUST00179,2024-11-04,Completed,Houston,Seattle
+ORD00081006,CUST00100,2024-11-04,Completed,Las Vegas,Dallas
+ORD00081011,CUST00015,2024-11-04,Completed,Memphis,Los Angeles
+ORD00081016,CUST00108,2024-11-04,Completed,Chicago,Portland
+ORD00081017,CUST00016,2024-11-04,Completed,Houston,Memphis
+ORD00081018,CUST00153,2024-11-04,Completed,Miami,Denver
+ORD00081020,CUST00015,2024-11-04,Completed,Phoenix,Denver
+ORD00081022,CUST00126,2024-11-04,Completed,Portland,Detroit
+ORD00081032,CUST00109,2024-11-05,Completed,New York,Columbus
+ORD00081035,CUST00179,2024-11-05,Completed,Philadelphia,Indianapolis
+ORD00081040,CUST00109,2024-11-05,Completed,Charlotte,Memphis
+ORD00081042,CUST00016,2024-11-05,Completed,Phoenix,Philadelphia
+ORD00081044,CUST00049,2024-11-05,Completed,Miami,Dallas
+ORD00081045,CUST00109,2024-11-05,Completed,Columbus,Philadelphia
+ORD00081046,CUST00050,2024-11-05,Completed,Miami,Philadelphia
+ORD00081047,CUST00111,2024-11-05,Completed,Kansas City,Miami
+ORD00081049,CUST00015,2024-11-05,Completed,Columbus,Philadelphia
+ORD00081051,CUST00122,2024-11-05,Completed,Las Vegas,Dallas
+ORD00081072,CUST00126,2024-11-05,Completed,Philadelphia,Minneapolis
+ORD00081073,CUST00158,2024-11-05,Completed,Phoenix,Denver
+ORD00081078,CUST00069,2024-11-05,Completed,Miami,Seattle
+ORD00081079,CUST00114,2024-11-05,Completed,Phoenix,Denver
+ORD00081080,CUST00095,2024-11-05,Completed,Columbus,Portland
+ORD00081082,CUST00016,2024-11-05,Completed,Columbus,Los Angeles
+ORD00081083,CUST00015,2024-11-05,Completed,Dallas,Denver
+ORD00081086,CUST00040,2024-11-05,Completed,Houston,Portland
+ORD00081091,CUST00035,2024-11-05,Completed,Columbus,Portland
+ORD00081095,CUST00108,2024-11-05,Completed,Portland,Detroit
+ORD00081099,CUST00111,2024-11-05,Completed,Kansas City,Atlanta
+ORD00081102,CUST00035,2024-11-05,Completed,Las Vegas,New York
+ORD00081104,CUST00158,2024-11-05,Completed,Phoenix,Kansas City
+ORD00081106,CUST00184,2024-11-05,Completed,Houston,Seattle
+ORD00081107,CUST00180,2024-11-05,Completed,Denver,Kansas City
+ORD00081117,CUST00183,2024-11-06,Completed,Chicago,Las Vegas
+ORD00081118,CUST00165,2024-11-06,Completed,Philadelphia,Indianapolis
+ORD00081123,CUST00015,2024-11-06,Completed,Miami,Philadelphia
+ORD00081124,CUST00004,2024-11-06,Completed,Minneapolis,Houston
+ORD00081125,CUST00007,2024-11-06,Completed,New York,Columbus
+ORD00081126,CUST00028,2024-11-06,Completed,Portland,Columbus
+ORD00081131,CUST00153,2024-11-06,Completed,Portland,Seattle
+ORD00081142,CUST00007,2024-11-06,Completed,Philadelphia,Indianapolis
+ORD00081147,CUST00098,2024-11-06,Completed,Charlotte,Seattle
+ORD00081149,CUST00052,2024-11-06,Completed,Chicago,Portland
+ORD00081163,CUST00006,2024-11-06,Completed,Atlanta,Chicago
+ORD00081166,CUST00153,2024-11-06,Completed,Phoenix,Denver
+ORD00081167,CUST00069,2024-11-06,Completed,Charlotte,Denver
+ORD00081173,CUST00040,2024-11-06,Completed,Columbus,Philadelphia
+ORD00081176,CUST00052,2024-11-06,Completed,Columbus,Kansas City
+ORD00081181,CUST00109,2024-11-06,Completed,Charlotte,Memphis
+ORD00081182,CUST00065,2024-11-06,Completed,Philadelphia,New York
+ORD00081184,CUST00177,2024-11-06,Completed,Seattle,Indianapolis
+ORD00081192,CUST00108,2024-11-07,Completed,Chicago,Los Angeles
+ORD00081194,CUST00116,2024-11-07,Completed,Portland,Detroit
+ORD00081195,CUST00177,2024-11-07,Completed,Phoenix,Kansas City
+ORD00081203,CUST00153,2024-11-07,Completed,Charlotte,Seattle
+ORD00081208,CUST00126,2024-11-07,Completed,Las Vegas,New York
+ORD00081212,CUST00042,2024-11-07,Completed,Philadelphia,Seattle
+ORD00081216,CUST00191,2024-11-07,Completed,Houston,Seattle
+ORD00081219,CUST00177,2024-11-07,Completed,Seattle,Indianapolis
+ORD00081220,CUST00153,2024-11-07,Completed,Portland,Detroit
+ORD00081221,CUST00191,2024-11-07,Completed,Dallas,Denver
+ORD00081223,CUST00116,2024-11-07,Completed,Portland,Seattle
+ORD00081224,CUST00108,2024-11-07,Completed,Philadelphia,Minneapolis
+ORD00081232,CUST00042,2024-11-07,Completed,Kansas City,Portland
+ORD00081234,CUST00010,2024-11-07,Completed,Columbus,Los Angeles
+ORD00081247,CUST00070,2024-11-07,Completed,Portland,Seattle
+ORD00081251,CUST00109,2024-11-07,Completed,Miami,Seattle
+ORD00081252,CUST00052,2024-11-07,Completed,Detroit,Houston
+ORD00081255,CUST00180,2024-11-07,Completed,Seattle,Indianapolis
+ORD00081260,CUST00028,2024-11-07,Completed,Houston,Memphis
+ORD00081263,CUST00179,2024-11-07,Completed,Philadelphia,Indianapolis
+ORD00081271,CUST00116,2024-11-08,Completed,Charlotte,Memphis
+ORD00081278,CUST00109,2024-11-08,Completed,Dallas,New York
+ORD00081282,CUST00179,2024-11-08,Completed,Kansas City,Indianapolis
+ORD00081285,CUST00180,2024-11-08,Completed,Miami,Seattle
+ORD00081291,CUST00166,2024-11-08,Completed,Kansas City,Miami
+ORD00081294,CUST00065,2024-11-08,Completed,Dallas,Denver
+ORD00081296,CUST00008,2024-11-08,Completed,Seattle,Houston
+ORD00081298,CUST00111,2024-11-08,Completed,Phoenix,Philadelphia
+ORD00081305,CUST00049,2024-11-08,Completed,Kansas City,Miami
+ORD00081308,CUST00177,2024-11-08,Completed,Las Vegas,Kansas City
+ORD00081311,CUST00122,2024-11-08,Completed,Las Vegas,Los Angeles
+ORD00081316,CUST00109,2024-11-08,Completed,Kansas City,Portland
+ORD00081318,CUST00122,2024-11-08,Completed,Miami,Dallas
+ORD00081319,CUST00180,2024-11-08,Completed,Portland,Seattle
+ORD00081323,CUST00028,2024-11-08,Completed,Atlanta,Miami
+ORD00081326,CUST00042,2024-11-08,Completed,Dallas,New York
+ORD00081327,CUST00122,2024-11-08,Completed,Atlanta,Miami
+ORD00081343,CUST00109,2024-11-09,Completed,Las Vegas,Dallas
+ORD00081348,CUST00004,2024-11-09,Completed,Minneapolis,Houston
+ORD00081351,CUST00100,2024-11-09,Completed,New York,Columbus
+ORD00081356,CUST00042,2024-11-09,Completed,Chicago,Portland
+ORD00081357,CUST00050,2024-11-09,Completed,Houston,Memphis
+ORD00081361,CUST00100,2024-11-09,Completed,New York,Columbus
+ORD00081377,CUST00122,2024-11-09,Completed,Kansas City,Charlotte
+ORD00081379,CUST00098,2024-11-09,Completed,Las Vegas,New York
+ORD00081381,CUST00172,2024-11-09,Completed,Seattle,Indianapolis
+ORD00081387,CUST00116,2024-11-09,Completed,Kansas City,Atlanta
+ORD00081389,CUST00179,2024-11-09,Completed,Columbus,Minneapolis
+ORD00081391,CUST00007,2024-11-09,Completed,Las Vegas,Los Angeles
+ORD00081393,CUST00191,2024-11-09,Completed,Kansas City,Indianapolis
+ORD00081394,CUST00010,2024-11-09,Completed,Kansas City,Indianapolis
+ORD00081399,CUST00183,2024-11-09,Completed,Las Vegas,Kansas City
+ORD00081406,CUST00166,2024-11-09,Completed,Portland,Columbus
+ORD00081408,CUST00116,2024-11-09,Completed,Seattle,Charlotte
+ORD00081409,CUST00050,2024-11-09,Completed,New York,Philadelphia
+ORD00081411,CUST00172,2024-11-10,Completed,Chicago,Las Vegas
+ORD00081419,CUST00109,2024-11-10,Completed,New York,Columbus
+ORD00081428,CUST00154,2024-11-10,Completed,Houston,Portland
+ORD00081429,CUST00042,2024-11-10,Completed,Philadelphia,New York
+ORD00081443,CUST00098,2024-11-10,Completed,Chicago,Los Angeles
+ORD00081447,CUST00042,2024-11-10,Completed,Philadelphia,Minneapolis
+ORD00081448,CUST00177,2024-11-10,Completed,Phoenix,Denver
+ORD00081449,CUST00183,2024-11-10,Completed,Seattle,Houston
+ORD00081453,CUST00015,2024-11-10,Completed,Kansas City,Miami
+ORD00081458,CUST00007,2024-11-10,Completed,Houston,Seattle
+ORD00081462,CUST00186,2024-11-10,Completed,Portland,Detroit
+ORD00081467,CUST00100,2024-11-10,Completed,Memphis,Los Angeles
+ORD00081468,CUST00098,2024-11-10,Completed,Memphis,Minneapolis
+ORD00081471,CUST00184,2024-11-10,Completed,Charlotte,Seattle
+ORD00081472,CUST00050,2024-11-10,Completed,Columbus,Portland
+ORD00081483,CUST00122,2024-11-10,Completed,Atlanta,Chicago
+ORD00081491,CUST00010,2024-11-11,Completed,Houston,Seattle
+ORD00081495,CUST00095,2024-11-11,Completed,Portland,Seattle
+ORD00081496,CUST00028,2024-11-11,Completed,Dallas,New York
+ORD00081503,CUST00179,2024-11-11,Completed,Charlotte,Memphis
+ORD00081511,CUST00050,2024-11-11,Completed,Minneapolis,Houston
+ORD00081519,CUST00158,2024-11-11,Completed,Philadelphia,New York
+ORD00081520,CUST00069,2024-11-11,Completed,Chicago,Las Vegas
+ORD00081524,CUST00165,2024-11-11,Completed,Houston,Seattle
+ORD00081534,CUST00007,2024-11-11,Completed,Miami,Dallas
+ORD00081545,CUST00154,2024-11-11,Completed,Memphis,Los Angeles
+ORD00081553,CUST00153,2024-11-11,Completed,Charlotte,Seattle
+ORD00081556,CUST00191,2024-11-11,Completed,Seattle,Charlotte
+ORD00081558,CUST00006,2024-11-11,Completed,Columbus,Minneapolis
+ORD00081561,CUST00016,2024-11-11,Completed,Kansas City,Miami
+ORD00081566,CUST00122,2024-11-11,Completed,Seattle,Indianapolis
+ORD00081575,CUST00015,2024-11-12,Completed,Columbus,Portland
+ORD00081576,CUST00010,2024-11-12,Completed,Dallas,Denver
+ORD00081585,CUST00040,2024-11-12,Completed,Detroit,Houston
+ORD00081590,CUST00100,2024-11-12,Completed,Las Vegas,Kansas City
+ORD00081592,CUST00111,2024-11-12,Completed,Charlotte,Memphis
+ORD00081601,CUST00006,2024-11-12,Completed,Las Vegas,Los Angeles
+ORD00081603,CUST00100,2024-11-12,Completed,Chicago,Charlotte
+ORD00081609,CUST00154,2024-11-12,Completed,Charlotte,Portland
+ORD00081614,CUST00070,2024-11-12,Completed,Columbus,Minneapolis
+ORD00081621,CUST00122,2024-11-12,Completed,New York,Philadelphia
+ORD00081624,CUST00116,2024-11-12,Completed,Phoenix,Denver
+ORD00081630,CUST00108,2024-11-12,Completed,Kansas City,Atlanta
+ORD00081633,CUST00122,2024-11-12,Completed,Atlanta,Chicago
+ORD00081634,CUST00042,2024-11-12,Completed,Atlanta,Miami
+ORD00081643,CUST00184,2024-11-12,Completed,Dallas,New York
+ORD00081644,CUST00109,2024-11-12,Completed,Miami,Dallas
+ORD00081646,CUST00114,2024-11-12,Completed,Phoenix,Denver
+ORD00081648,CUST00070,2024-11-12,Completed,Kansas City,Miami
+ORD00081651,CUST00111,2024-11-12,Completed,Kansas City,Atlanta
+ORD00081668,CUST00040,2024-11-13,Completed,Las Vegas,New York
+ORD00081677,CUST00172,2024-11-13,Completed,Memphis,Los Angeles
+ORD00081679,CUST00007,2024-11-13,Completed,Miami,Seattle
+ORD00081688,CUST00015,2024-11-13,Completed,Detroit,Houston
+ORD00081689,CUST00186,2024-11-13,Completed,Portland,Detroit
+ORD00081696,CUST00158,2024-11-13,Completed,Phoenix,Kansas City
+ORD00081698,CUST00070,2024-11-13,Completed,Las Vegas,New York
+ORD00081699,CUST00098,2024-11-13,Completed,Miami,Denver
+ORD00081700,CUST00180,2024-11-13,Completed,Kansas City,Portland
+ORD00081704,CUST00010,2024-11-13,Completed,Columbus,Minneapolis
+ORD00081713,CUST00006,2024-11-13,Completed,Detroit,Houston
+ORD00081720,CUST00007,2024-11-13,Completed,Philadelphia,Indianapolis
+ORD00081735,CUST00122,2024-11-13,Completed,Memphis,Los Angeles
+ORD00081736,CUST00158,2024-11-13,Completed,New York,Philadelphia
+ORD00081741,CUST00180,2024-11-13,Completed,Phoenix,Denver
+ORD00081761,CUST00109,2024-11-14,Completed,Atlanta,Miami
+ORD00081764,CUST00111,2024-11-14,Completed,Portland,Seattle
+ORD00081765,CUST00049,2024-11-14,Completed,Memphis,Minneapolis
+ORD00081769,CUST00109,2024-11-14,Completed,Chicago,Los Angeles
+ORD00081773,CUST00186,2024-11-14,Completed,Columbus,Philadelphia
+ORD00081776,CUST00183,2024-11-14,Completed,Seattle,Houston
+ORD00081779,CUST00016,2024-11-14,Completed,Memphis,Minneapolis
+ORD00081785,CUST00052,2024-11-14,Completed,Columbus,Kansas City
+ORD00081789,CUST00010,2024-11-14,Completed,Phoenix,Kansas City
+ORD00081794,CUST00050,2024-11-14,Completed,Dallas,Denver
+ORD00081800,CUST00165,2024-11-14,Completed,Miami,Philadelphia
+ORD00081814,CUST00165,2024-11-14,Completed,Kansas City,Portland
+ORD00081816,CUST00008,2024-11-14,Completed,Charlotte,Seattle
+ORD00081820,CUST00122,2024-11-14,Completed,Chicago,Charlotte
+ORD00081824,CUST00183,2024-11-14,Completed,Phoenix,Kansas City
+ORD00081832,CUST00184,2024-11-14,Completed,Las Vegas,Dallas
+ORD00081834,CUST00153,2024-11-15,Completed,Philadelphia,Minneapolis
+ORD00081837,CUST00108,2024-11-15,Completed,Chicago,Las Vegas
+ORD00081840,CUST00166,2024-11-15,Completed,Atlanta,Miami
+ORD00081848,CUST00180,2024-11-15,Completed,Miami,Dallas
+ORD00081857,CUST00122,2024-11-15,Completed,Columbus,Philadelphia
+ORD00081864,CUST00186,2024-11-15,Completed,Philadelphia,Indianapolis
+ORD00081867,CUST00109,2024-11-15,Completed,Philadelphia,Indianapolis
+ORD00081873,CUST00109,2024-11-15,Completed,Columbus,Kansas City
+ORD00081874,CUST00052,2024-11-15,Completed,Seattle,Indianapolis
+ORD00081883,CUST00116,2024-11-15,Completed,Chicago,Los Angeles
+ORD00081885,CUST00100,2024-11-15,Completed,Philadelphia,Indianapolis
+ORD00081899,CUST00179,2024-11-15,Completed,Las Vegas,New York
+ORD00081901,CUST00122,2024-11-15,Completed,Minneapolis,Atlanta
+ORD00081905,CUST00186,2024-11-15,Completed,Dallas,New York
+ORD00081907,CUST00098,2024-11-15,Completed,Philadelphia,Minneapolis
+ORD00081911,CUST00028,2024-11-15,Completed,Charlotte,Portland
+ORD00081915,CUST00177,2024-11-15,Completed,Chicago,Portland
+ORD00081923,CUST00109,2024-11-15,Completed,Phoenix,Denver
+ORD00081928,CUST00006,2024-11-15,Completed,Portland,Seattle
+ORD00081929,CUST00006,2024-11-15,Completed,Miami,Philadelphia
+ORD00081931,CUST00166,2024-11-16,Completed,Columbus,Kansas City
+ORD00081938,CUST00179,2024-11-16,Completed,Phoenix,Philadelphia
+ORD00081939,CUST00052,2024-11-16,Completed,Chicago,Las Vegas
+ORD00081947,CUST00153,2024-11-16,Completed,Chicago,Las Vegas
+ORD00081953,CUST00069,2024-11-16,Completed,Detroit,Houston
+ORD00081960,CUST00108,2024-11-16,Completed,Columbus,Philadelphia
+ORD00081965,CUST00191,2024-11-16,Completed,Columbus,Minneapolis
+ORD00081972,CUST00122,2024-11-16,Completed,Seattle,Indianapolis
+ORD00081977,CUST00116,2024-11-16,Completed,Atlanta,Miami
+ORD00081985,CUST00010,2024-11-16,Completed,Philadelphia,New York
+ORD00081988,CUST00028,2024-11-16,Completed,Atlanta,Chicago
+ORD00081990,CUST00007,2024-11-16,Completed,Houston,Seattle
+ORD00081992,CUST00153,2024-11-16,Completed,Houston,Portland
+ORD00082007,CUST00172,2024-11-17,Completed,Portland,Detroit
+ORD00082008,CUST00126,2024-11-17,Completed,Atlanta,Chicago
+ORD00082012,CUST00111,2024-11-17,Completed,Seattle,Charlotte
+ORD00082021,CUST00180,2024-11-17,Completed,Philadelphia,Indianapolis
+ORD00082024,CUST00191,2024-11-17,Completed,Charlotte,Seattle
+ORD00082026,CUST00158,2024-11-17,Completed,Columbus,Portland
+ORD00082030,CUST00010,2024-11-17,Completed,Las Vegas,Dallas
+ORD00082043,CUST00126,2024-11-17,Completed,Charlotte,Memphis
+ORD00082046,CUST00108,2024-11-17,Completed,Portland,Columbus
+ORD00082049,CUST00065,2024-11-17,Completed,Kansas City,Portland
+ORD00082055,CUST00158,2024-11-17,Completed,Columbus,Portland
+ORD00082057,CUST00006,2024-11-17,Completed,Atlanta,Chicago
+ORD00082064,CUST00028,2024-11-17,Completed,Kansas City,Portland
+ORD00082067,CUST00065,2024-11-17,Completed,Columbus,Philadelphia
+ORD00082068,CUST00191,2024-11-17,Completed,Charlotte,Portland
+ORD00082070,CUST00179,2024-11-17,Completed,Phoenix,Philadelphia
+ORD00082074,CUST00015,2024-11-17,Completed,Philadelphia,New York
+ORD00082086,CUST00010,2024-11-18,Completed,Kansas City,Indianapolis
+ORD00082097,CUST00049,2024-11-18,Completed,New York,Columbus
+ORD00082100,CUST00166,2024-11-18,Completed,Memphis,Minneapolis
+ORD00082107,CUST00016,2024-11-18,Completed,Kansas City,Miami
+ORD00082109,CUST00065,2024-11-18,Completed,Columbus,Portland
+ORD00082111,CUST00052,2024-11-18,Completed,Seattle,Houston
+ORD00082122,CUST00004,2024-11-18,Completed,Charlotte,Denver
+ORD00082124,CUST00116,2024-11-18,Completed,Dallas,New York
+ORD00082125,CUST00186,2024-11-18,Completed,Philadelphia,Minneapolis
+ORD00082126,CUST00040,2024-11-18,Completed,Minneapolis,Houston
+ORD00082134,CUST00126,2024-11-18,Completed,Miami,Denver
+ORD00082140,CUST00069,2024-11-18,Completed,Houston,Detroit
+ORD00082147,CUST00114,2024-11-18,Completed,Charlotte,Memphis
+ORD00082160,CUST00158,2024-11-19,Completed,Dallas,Denver
+ORD00082161,CUST00098,2024-11-19,Completed,Portland,Columbus
+ORD00082162,CUST00109,2024-11-19,Completed,Kansas City,Miami
+ORD00082163,CUST00049,2024-11-19,Completed,Kansas City,Portland
+ORD00082166,CUST00006,2024-11-19,Completed,Houston,Detroit
+ORD00082167,CUST00177,2024-11-19,Completed,Detroit,Houston
+ORD00082169,CUST00007,2024-11-19,Completed,New York,Columbus
+ORD00082172,CUST00153,2024-11-19,Completed,Houston,Seattle
+ORD00082183,CUST00049,2024-11-19,Completed,Charlotte,Portland
+ORD00082189,CUST00108,2024-11-19,Completed,Las Vegas,Kansas City
+ORD00082191,CUST00108,2024-11-19,Completed,Houston,Seattle
+ORD00082199,CUST00052,2024-11-19,Completed,Chicago,Los Angeles
+ORD00082207,CUST00154,2024-11-19,Completed,Columbus,Minneapolis
+ORD00082208,CUST00098,2024-11-19,Completed,Kansas City,Portland
+ORD00082211,CUST00049,2024-11-19,Completed,Las Vegas,Kansas City
+ORD00082215,CUST00158,2024-11-19,Completed,Las Vegas,Los Angeles
+ORD00082217,CUST00070,2024-11-19,Completed,Columbus,Minneapolis
+ORD00082220,CUST00100,2024-11-19,Completed,Denver,Kansas City
+ORD00082231,CUST00065,2024-11-20,Completed,Portland,Detroit
+ORD00082234,CUST00095,2024-11-20,Completed,Philadelphia,New York
+ORD00082236,CUST00050,2024-11-20,Completed,Columbus,Portland
+ORD00082249,CUST00095,2024-11-20,Completed,Columbus,Kansas City
+ORD00082264,CUST00052,2024-11-20,Completed,Chicago,Las Vegas
+ORD00082270,CUST00126,2024-11-20,Completed,Kansas City,Portland
+ORD00082274,CUST00052,2024-11-20,Completed,Charlotte,Seattle
+ORD00082278,CUST00186,2024-11-20,Completed,Charlotte,Denver
+ORD00082284,CUST00183,2024-11-20,Completed,Miami,Denver
+ORD00082286,CUST00098,2024-11-20,Completed,Seattle,Charlotte
+ORD00082295,CUST00122,2024-11-20,Completed,New York,Philadelphia
+ORD00082299,CUST00042,2024-11-20,Completed,Chicago,Los Angeles
+ORD00082303,CUST00191,2024-11-20,Completed,Atlanta,Chicago
+ORD00082306,CUST00070,2024-11-20,Completed,Memphis,Los Angeles
+ORD00082309,CUST00109,2024-11-21,Completed,Charlotte,Portland
+ORD00082315,CUST00095,2024-11-21,Completed,Charlotte,Denver
+ORD00082321,CUST00186,2024-11-21,Completed,Columbus,Philadelphia
+ORD00082334,CUST00095,2024-11-21,Completed,Dallas,New York
+ORD00082335,CUST00095,2024-11-21,Completed,Kansas City,Charlotte
+ORD00082336,CUST00015,2024-11-21,Completed,Charlotte,Portland
+ORD00082341,CUST00015,2024-11-21,Completed,Charlotte,Portland
+ORD00082343,CUST00028,2024-11-21,Completed,Atlanta,Miami
+ORD00082345,CUST00052,2024-11-21,Completed,Atlanta,Miami
+ORD00082355,CUST00028,2024-11-21,Completed,Chicago,Los Angeles
+ORD00082359,CUST00191,2024-11-21,Completed,Kansas City,Atlanta
+ORD00082365,CUST00098,2024-11-21,Completed,Kansas City,Atlanta
+ORD00082376,CUST00010,2024-11-21,Completed,Dallas,Denver
+ORD00082379,CUST00007,2024-11-21,Completed,Dallas,Indianapolis
+ORD00082384,CUST00172,2024-11-22,Completed,Phoenix,Denver
+ORD00082386,CUST00006,2024-11-22,Completed,Charlotte,Memphis
+ORD00082389,CUST00010,2024-11-22,Completed,Kansas City,Miami
+ORD00082418,CUST00069,2024-11-22,Completed,New York,Columbus
+ORD00082448,CUST00166,2024-11-22,Completed,Las Vegas,New York
+ORD00082457,CUST00010,2024-11-23,Completed,Phoenix,Kansas City
+ORD00082464,CUST00006,2024-11-23,Completed,Minneapolis,Los Angeles
+ORD00082476,CUST00116,2024-11-23,Completed,Dallas,New York
+ORD00082479,CUST00109,2024-11-23,Completed,Houston,Seattle
+ORD00082483,CUST00069,2024-11-23,Completed,Minneapolis,Houston
+ORD00082490,CUST00098,2024-11-23,Completed,Charlotte,Portland
+ORD00082493,CUST00126,2024-11-23,Completed,Philadelphia,Indianapolis
+ORD00082497,CUST00109,2024-11-23,Completed,Philadelphia,New York
+ORD00082505,CUST00111,2024-11-23,Completed,Columbus,Philadelphia
+ORD00082515,CUST00108,2024-11-23,Completed,Portland,Detroit
+ORD00082519,CUST00114,2024-11-23,Completed,Atlanta,Miami
+ORD00082526,CUST00165,2024-11-23,Completed,Houston,Seattle
+ORD00082531,CUST00191,2024-11-23,Completed,Memphis,Minneapolis
+ORD00082534,CUST00004,2024-11-23,Completed,Las Vegas,Dallas
+ORD00082536,CUST00069,2024-11-24,Completed,Houston,Seattle
+ORD00082543,CUST00108,2024-11-24,Completed,New York,Philadelphia
+ORD00082546,CUST00180,2024-11-24,Completed,Charlotte,Memphis
+ORD00082552,CUST00158,2024-11-24,Completed,Atlanta,Chicago
+ORD00082555,CUST00108,2024-11-24,Completed,Columbus,Minneapolis
+ORD00082556,CUST00179,2024-11-24,Completed,Seattle,Houston
+ORD00082561,CUST00191,2024-11-24,Completed,Miami,Denver
+ORD00082562,CUST00114,2024-11-24,Completed,Houston,Seattle
+ORD00082563,CUST00177,2024-11-24,Completed,Minneapolis,Los Angeles
+ORD00082578,CUST00042,2024-11-24,Completed,Philadelphia,Minneapolis
+ORD00082582,CUST00111,2024-11-24,Completed,Miami,Philadelphia
+ORD00082588,CUST00004,2024-11-24,Completed,Minneapolis,Los Angeles
+ORD00082593,CUST00065,2024-11-24,Completed,Kansas City,Charlotte
+ORD00082598,CUST00177,2024-11-24,Completed,Kansas City,Charlotte
+ORD00082599,CUST00172,2024-11-24,Completed,Minneapolis,Houston
+ORD00082600,CUST00095,2024-11-24,Completed,Phoenix,Denver
+ORD00082606,CUST00166,2024-11-24,Completed,Dallas,Indianapolis
+ORD00082614,CUST00008,2024-11-25,Completed,Miami,Dallas
+ORD00082620,CUST00183,2024-11-25,Completed,New York,Philadelphia
+ORD00082622,CUST00116,2024-11-25,Completed,Philadelphia,Indianapolis
+ORD00082623,CUST00070,2024-11-25,Completed,Columbus,Philadelphia
+ORD00082628,CUST00035,2024-11-25,Completed,Columbus,Philadelphia
+ORD00082635,CUST00186,2024-11-25,Completed,Philadelphia,Indianapolis
+ORD00082636,CUST00111,2024-11-25,Completed,Memphis,Minneapolis
+ORD00082661,CUST00006,2024-11-25,Completed,Las Vegas,Dallas
+ORD00082670,CUST00016,2024-11-25,Completed,Las Vegas,Dallas
+ORD00082672,CUST00007,2024-11-25,Completed,Denver,Kansas City
+ORD00082680,CUST00015,2024-11-26,Completed,Las Vegas,Dallas
+ORD00082689,CUST00126,2024-11-26,Completed,Miami,Dallas
+ORD00082699,CUST00065,2024-11-26,Completed,Portland,Columbus
+ORD00082708,CUST00015,2024-11-26,Completed,Phoenix,Denver
+ORD00082710,CUST00028,2024-11-26,Completed,Houston,Portland
+ORD00082712,CUST00184,2024-11-26,Completed,Columbus,Minneapolis
+ORD00082720,CUST00158,2024-11-26,Completed,Kansas City,Portland
+ORD00082754,CUST00183,2024-11-27,Completed,Miami,Philadelphia
+ORD00082762,CUST00050,2024-11-27,Completed,Charlotte,Denver
+ORD00082764,CUST00042,2024-11-27,Completed,Las Vegas,New York
+ORD00082765,CUST00114,2024-11-27,Completed,Columbus,Minneapolis
+ORD00082768,CUST00070,2024-11-27,Completed,Houston,Memphis
+ORD00082771,CUST00122,2024-11-27,Completed,Philadelphia,Seattle
+ORD00082777,CUST00177,2024-11-27,Completed,Phoenix,Kansas City
+ORD00082785,CUST00050,2024-11-27,Completed,Phoenix,Kansas City
+ORD00082792,CUST00049,2024-11-27,Completed,Las Vegas,Los Angeles
+ORD00082809,CUST00004,2024-11-27,Completed,Seattle,Indianapolis
+ORD00082815,CUST00035,2024-11-27,Completed,Kansas City,Indianapolis
+ORD00082818,CUST00070,2024-11-28,Completed,Atlanta,Chicago
+ORD00082829,CUST00095,2024-11-28,Completed,Memphis,Los Angeles
+ORD00082838,CUST00111,2024-11-28,Completed,Minneapolis,Los Angeles
+ORD00082842,CUST00015,2024-11-28,Completed,Columbus,Los Angeles
+ORD00082852,CUST00177,2024-11-28,Completed,Memphis,Los Angeles
+ORD00082858,CUST00180,2024-11-28,Completed,Memphis,Minneapolis
+ORD00082863,CUST00122,2024-11-28,Completed,Las Vegas,Los Angeles
+ORD00082874,CUST00191,2024-11-28,Completed,Portland,Columbus
+ORD00082886,CUST00095,2024-11-28,Completed,Miami,Seattle
+ORD00082889,CUST00183,2024-11-28,Completed,Houston,Portland
+ORD00082899,CUST00007,2024-11-28,Completed,Miami,Denver
+ORD00082901,CUST00111,2024-11-28,Completed,Kansas City,Los Angeles
+ORD00082903,CUST00111,2024-11-29,Completed,Columbus,Philadelphia
+ORD00082905,CUST00186,2024-11-29,Completed,Las Vegas,Dallas
+ORD00082907,CUST00172,2024-11-29,Completed,Seattle,Charlotte
+ORD00082910,CUST00114,2024-11-29,Completed,Las Vegas,Kansas City
+ORD00082916,CUST00166,2024-11-29,Completed,Minneapolis,Los Angeles
+ORD00082929,CUST00165,2024-11-29,Completed,New York,Philadelphia
+ORD00082934,CUST00010,2024-11-29,Completed,Memphis,Los Angeles
+ORD00082936,CUST00108,2024-11-29,Completed,Seattle,Houston
+ORD00082942,CUST00095,2024-11-29,Completed,Charlotte,Seattle
+ORD00082945,CUST00184,2024-11-29,Completed,Charlotte,Memphis
+ORD00082951,CUST00177,2024-11-29,Completed,Columbus,Kansas City
+ORD00082956,CUST00109,2024-11-29,Completed,Las Vegas,Kansas City
+ORD00082958,CUST00050,2024-11-29,Completed,Detroit,Houston
+ORD00082959,CUST00177,2024-11-29,Completed,Atlanta,Miami
+ORD00082967,CUST00109,2024-11-29,Completed,Kansas City,Los Angeles
+ORD00082980,CUST00154,2024-11-30,Completed,Columbus,Minneapolis
+ORD00082987,CUST00165,2024-11-30,Completed,Dallas,Denver
+ORD00082988,CUST00153,2024-11-30,Completed,Columbus,Kansas City
+ORD00082995,CUST00095,2024-11-30,Completed,Houston,Memphis
+ORD00082996,CUST00007,2024-11-30,Completed,Houston,Memphis
+ORD00082998,CUST00183,2024-11-30,Completed,Philadelphia,Minneapolis
+ORD00083006,CUST00008,2024-11-30,Completed,Columbus,Los Angeles
+ORD00083010,CUST00070,2024-11-30,Completed,Miami,Seattle
+ORD00083018,CUST00049,2024-11-30,Completed,Charlotte,Seattle
+ORD00083019,CUST00098,2024-11-30,Completed,Miami,Denver
+ORD00083022,CUST00165,2024-11-30,Completed,Charlotte,Denver
+ORD00083031,CUST00050,2024-11-30,Completed,Chicago,Charlotte
+ORD00083033,CUST00010,2024-11-30,Completed,Kansas City,Indianapolis
+ORD00083040,CUST00179,2024-11-30,Completed,Minneapolis,Los Angeles
+ORD00083042,CUST00098,2024-11-30,Completed,Kansas City,Los Angeles
+ORD00083046,CUST00040,2024-11-30,Completed,Houston,Memphis
+ORD00083047,CUST00116,2024-11-30,Completed,Minneapolis,Houston
+ORD00083051,CUST00184,2024-11-30,Completed,Houston,Seattle
+ORD00083063,CUST00122,2024-12-01,Completed,Columbus,Minneapolis
+ORD00083072,CUST00098,2024-12-01,Completed,Charlotte,Seattle
+ORD00083091,CUST00004,2024-12-01,Completed,Philadelphia,Indianapolis
+ORD00083092,CUST00116,2024-12-01,Completed,Kansas City,Los Angeles
+ORD00083098,CUST00049,2024-12-01,Completed,New York,Columbus
+ORD00083105,CUST00154,2024-12-01,Completed,Las Vegas,Kansas City
+ORD00083119,CUST00158,2024-12-01,Completed,Phoenix,Denver
+ORD00083120,CUST00016,2024-12-01,Completed,Columbus,Los Angeles
+ORD00083126,CUST00070,2024-12-01,Completed,Houston,Detroit
+ORD00083131,CUST00158,2024-12-02,Completed,Kansas City,Atlanta
+ORD00083133,CUST00016,2024-12-02,Completed,Phoenix,Kansas City
+ORD00083157,CUST00008,2024-12-02,Completed,Columbus,Portland
+ORD00083160,CUST00070,2024-12-02,Completed,Las Vegas,Los Angeles
+ORD00083168,CUST00111,2024-12-02,Completed,Columbus,Los Angeles
+ORD00083176,CUST00186,2024-12-02,Completed,Philadelphia,Minneapolis
+ORD00083178,CUST00158,2024-12-02,Completed,Columbus,Portland
+ORD00083181,CUST00028,2024-12-02,Completed,Las Vegas,New York
+ORD00083185,CUST00179,2024-12-02,Completed,Charlotte,Memphis
+ORD00083194,CUST00122,2024-12-02,Completed,Kansas City,Atlanta
+ORD00083195,CUST00184,2024-12-02,Completed,Houston,Detroit
+ORD00083196,CUST00186,2024-12-02,Completed,Kansas City,Portland
+ORD00083197,CUST00166,2024-12-02,Completed,Miami,Denver
+ORD00083203,CUST00111,2024-12-02,Completed,Columbus,Portland
+ORD00083208,CUST00166,2024-12-02,Completed,Kansas City,Miami
+ORD00083215,CUST00183,2024-12-02,Completed,Portland,Columbus
+ORD00083218,CUST00052,2024-12-02,Completed,Kansas City,Portland
+ORD00083240,CUST00177,2024-12-03,Completed,Minneapolis,Atlanta
+ORD00083241,CUST00126,2024-12-03,Completed,Phoenix,Philadelphia
+ORD00083253,CUST00095,2024-12-03,Completed,Kansas City,Atlanta
+ORD00083259,CUST00095,2024-12-03,Completed,Kansas City,Portland
+ORD00083271,CUST00069,2024-12-03,Completed,Dallas,Denver
+ORD00083272,CUST00179,2024-12-03,Completed,Minneapolis,Los Angeles
+ORD00083277,CUST00070,2024-12-03,Completed,Charlotte,Portland
+ORD00083278,CUST00158,2024-12-03,Completed,Minneapolis,Houston
+ORD00083283,CUST00098,2024-12-03,Completed,Phoenix,Philadelphia
+ORD00083290,CUST00006,2024-12-03,Completed,Charlotte,Portland
+ORD00083291,CUST00180,2024-12-03,Completed,Columbus,Portland
+ORD00083299,CUST00109,2024-12-04,Completed,New York,Philadelphia
+ORD00083309,CUST00166,2024-12-04,Completed,Columbus,Kansas City
+ORD00083310,CUST00006,2024-12-04,Completed,Chicago,Portland
+ORD00083311,CUST00050,2024-12-04,Completed,Columbus,Los Angeles
+ORD00083312,CUST00035,2024-12-04,Completed,Atlanta,Chicago
+ORD00083315,CUST00191,2024-12-04,Completed,Detroit,Houston
+ORD00083317,CUST00158,2024-12-04,Completed,Houston,Portland
+ORD00083320,CUST00095,2024-12-04,Completed,Philadelphia,Indianapolis
+ORD00083321,CUST00098,2024-12-04,Completed,Minneapolis,Los Angeles
+ORD00083329,CUST00040,2024-12-04,Completed,Charlotte,Portland
+ORD00083331,CUST00158,2024-12-04,Completed,Chicago,Charlotte
+ORD00083332,CUST00183,2024-12-04,Completed,Miami,Denver
+ORD00083340,CUST00153,2024-12-04,Completed,Chicago,Charlotte
+ORD00083351,CUST00179,2024-12-04,Completed,Phoenix,Kansas City
+ORD00083353,CUST00183,2024-12-04,Completed,Charlotte,Seattle
+ORD00083364,CUST00007,2024-12-04,Completed,Minneapolis,Atlanta
+ORD00083366,CUST00049,2024-12-04,Completed,Miami,Philadelphia
+ORD00083368,CUST00186,2024-12-05,Completed,Las Vegas,Los Angeles
+ORD00083371,CUST00154,2024-12-05,Completed,Phoenix,Denver
+ORD00083372,CUST00040,2024-12-05,Completed,Phoenix,Philadelphia
+ORD00083377,CUST00180,2024-12-05,Completed,Las Vegas,Dallas
+ORD00083382,CUST00065,2024-12-05,Completed,Memphis,Los Angeles
+ORD00083384,CUST00165,2024-12-05,Completed,Charlotte,Memphis
+ORD00083385,CUST00184,2024-12-05,Completed,Minneapolis,Houston
+ORD00083387,CUST00158,2024-12-05,Completed,Columbus,Philadelphia
+ORD00083393,CUST00016,2024-12-05,Completed,Seattle,Houston
+ORD00083395,CUST00116,2024-12-05,Completed,Kansas City,Indianapolis
+ORD00083396,CUST00028,2024-12-05,Completed,Las Vegas,Kansas City
+ORD00083401,CUST00035,2024-12-05,Completed,New York,Philadelphia
+ORD00083404,CUST00028,2024-12-05,Completed,Portland,Seattle
+ORD00083406,CUST00154,2024-12-05,Completed,Atlanta,Miami
+ORD00083413,CUST00109,2024-12-05,Completed,Columbus,Portland
+ORD00083417,CUST00177,2024-12-05,Completed,Philadelphia,Seattle
+ORD00083420,CUST00069,2024-12-05,Completed,Houston,Detroit
+ORD00083443,CUST00007,2024-12-05,Completed,New York,Philadelphia
+ORD00083446,CUST00015,2024-12-05,Completed,Kansas City,Atlanta
+ORD00083449,CUST00111,2024-12-05,Completed,Seattle,Houston
+ORD00083453,CUST00035,2024-12-06,Completed,Memphis,Los Angeles
+ORD00083456,CUST00007,2024-12-06,Completed,Miami,Dallas
+ORD00083462,CUST00010,2024-12-06,Completed,Dallas,Denver
+ORD00083467,CUST00065,2024-12-06,Completed,Philadelphia,Indianapolis
+ORD00083477,CUST00191,2024-12-06,Completed,Memphis,Los Angeles
+ORD00083480,CUST00052,2024-12-06,Completed,Phoenix,Kansas City
+ORD00083481,CUST00183,2024-12-06,Completed,Denver,Kansas City
+ORD00083490,CUST00122,2024-12-06,Completed,Las Vegas,Dallas
+ORD00083496,CUST00108,2024-12-06,Completed,Las Vegas,Los Angeles
+ORD00083505,CUST00183,2024-12-06,Completed,Atlanta,Miami
+ORD00083508,CUST00114,2024-12-06,Completed,Memphis,Los Angeles
+ORD00083511,CUST00065,2024-12-06,Completed,New York,Columbus
+ORD00083516,CUST00114,2024-12-06,Completed,Columbus,Portland
+ORD00083518,CUST00122,2024-12-06,Completed,Seattle,Charlotte
+ORD00083519,CUST00016,2024-12-06,Completed,Chicago,Las Vegas
+ORD00083529,CUST00050,2024-12-07,Completed,Columbus,Kansas City
+ORD00083537,CUST00098,2024-12-07,Completed,Portland,Columbus
+ORD00083545,CUST00070,2024-12-07,Completed,Philadelphia,New York
+ORD00083553,CUST00179,2024-12-07,Completed,Las Vegas,Dallas
+ORD00083574,CUST00035,2024-12-07,Completed,Columbus,Minneapolis
+ORD00083581,CUST00035,2024-12-07,Completed,Houston,Portland
+ORD00083583,CUST00028,2024-12-07,Completed,Las Vegas,New York
+ORD00083600,CUST00049,2024-12-07,Completed,Miami,Denver
+ORD00083601,CUST00049,2024-12-07,Completed,Memphis,Los Angeles
+ORD00083602,CUST00154,2024-12-07,Completed,Phoenix,Philadelphia
+ORD00083604,CUST00158,2024-12-07,Completed,Detroit,Houston
+ORD00083608,CUST00052,2024-12-07,Completed,Kansas City,Indianapolis
+ORD00083615,CUST00050,2024-12-08,Completed,Minneapolis,Los Angeles
+ORD00083616,CUST00007,2024-12-08,Completed,Minneapolis,Houston
+ORD00083619,CUST00122,2024-12-08,Completed,Miami,Seattle
+ORD00083620,CUST00035,2024-12-08,Completed,Charlotte,Seattle
+ORD00083624,CUST00015,2024-12-08,Completed,Miami,Philadelphia
+ORD00083631,CUST00116,2024-12-08,Completed,Miami,Philadelphia
+ORD00083635,CUST00069,2024-12-08,Completed,Memphis,Los Angeles
+ORD00083638,CUST00126,2024-12-08,Completed,Denver,Kansas City
+ORD00083647,CUST00116,2024-12-08,Completed,New York,Columbus
+ORD00083654,CUST00042,2024-12-08,Completed,Chicago,Los Angeles
+ORD00083659,CUST00111,2024-12-08,Completed,Kansas City,Los Angeles
+ORD00083663,CUST00050,2024-12-08,Completed,Kansas City,Indianapolis
+ORD00083666,CUST00109,2024-12-08,Completed,Las Vegas,Kansas City
+ORD00083670,CUST00126,2024-12-08,Completed,Portland,Seattle
+ORD00083680,CUST00050,2024-12-09,Completed,Detroit,Houston
+ORD00083681,CUST00098,2024-12-09,Completed,Houston,Seattle
+ORD00083683,CUST00069,2024-12-09,Completed,Las Vegas,Kansas City
+ORD00083687,CUST00049,2024-12-09,Completed,Philadelphia,Indianapolis
+ORD00083689,CUST00052,2024-12-09,Completed,Houston,Detroit
+ORD00083693,CUST00154,2024-12-09,Completed,Charlotte,Portland
+ORD00083695,CUST00177,2024-12-09,Completed,Houston,Memphis
+ORD00083697,CUST00177,2024-12-09,Completed,Memphis,Los Angeles
+ORD00083703,CUST00126,2024-12-09,Completed,Dallas,Indianapolis
+ORD00083704,CUST00008,2024-12-09,Completed,Kansas City,Portland
+ORD00083705,CUST00179,2024-12-09,Completed,Columbus,Minneapolis
+ORD00083708,CUST00111,2024-12-09,Completed,Phoenix,Denver
+ORD00083711,CUST00108,2024-12-09,Completed,Portland,Detroit
+ORD00083721,CUST00184,2024-12-09,Completed,Chicago,Portland
+ORD00083729,CUST00010,2024-12-09,Completed,Kansas City,Atlanta
+ORD00083736,CUST00177,2024-12-09,Completed,Denver,Kansas City
+ORD00083748,CUST00158,2024-12-10,Completed,Portland,Detroit
+ORD00083753,CUST00008,2024-12-10,Completed,Seattle,Houston
+ORD00083755,CUST00052,2024-12-10,Completed,Seattle,Charlotte
+ORD00083765,CUST00153,2024-12-10,Completed,Houston,Portland
+ORD00083779,CUST00154,2024-12-10,Completed,Atlanta,Chicago
+ORD00083792,CUST00186,2024-12-10,Completed,Houston,Portland
+ORD00083793,CUST00008,2024-12-10,Completed,Miami,Denver
+ORD00083803,CUST00016,2024-12-10,Completed,Charlotte,Denver
+ORD00083808,CUST00100,2024-12-10,Completed,Dallas,New York
+ORD00083810,CUST00052,2024-12-10,Completed,Philadelphia,Indianapolis
+ORD00083812,CUST00016,2024-12-10,Completed,Minneapolis,Los Angeles
+ORD00083816,CUST00007,2024-12-10,Completed,Atlanta,Miami
+ORD00083818,CUST00035,2024-12-10,Completed,Atlanta,Chicago
+ORD00083829,CUST00108,2024-12-10,Completed,Portland,Seattle
+ORD00083835,CUST00042,2024-12-11,Completed,Seattle,Indianapolis
+ORD00083838,CUST00177,2024-12-11,Completed,Portland,Detroit
+ORD00083843,CUST00122,2024-12-11,Completed,Miami,Seattle
+ORD00083853,CUST00186,2024-12-11,Completed,New York,Columbus
+ORD00083854,CUST00070,2024-12-11,Completed,Columbus,Minneapolis
+ORD00083856,CUST00111,2024-12-11,Completed,New York,Columbus
+ORD00083868,CUST00065,2024-12-11,Completed,Dallas,Indianapolis
+ORD00083869,CUST00154,2024-12-11,Completed,Las Vegas,Los Angeles
+ORD00083871,CUST00158,2024-12-11,Completed,Dallas,Denver
+ORD00083879,CUST00191,2024-12-11,Completed,Kansas City,Los Angeles
+ORD00083890,CUST00108,2024-12-11,Completed,Charlotte,Denver
+ORD00083891,CUST00158,2024-12-11,Completed,Chicago,Charlotte
+ORD00083893,CUST00109,2024-12-11,Completed,Miami,Seattle
+ORD00083894,CUST00070,2024-12-11,Completed,Phoenix,Denver
+ORD00083902,CUST00122,2024-12-11,Completed,Minneapolis,Los Angeles
+ORD00083903,CUST00111,2024-12-11,Completed,Minneapolis,Atlanta
+ORD00083914,CUST00126,2024-12-12,Completed,Columbus,Kansas City
+ORD00083920,CUST00179,2024-12-12,Completed,Memphis,Los Angeles
+ORD00083926,CUST00183,2024-12-12,Completed,Houston,Detroit
+ORD00083937,CUST00114,2024-12-12,Completed,Portland,Seattle
+ORD00083946,CUST00165,2024-12-12,Completed,Miami,Philadelphia
+ORD00083958,CUST00116,2024-12-12,Completed,Las Vegas,Los Angeles
+ORD00083959,CUST00111,2024-12-12,Completed,Chicago,Portland
+ORD00083968,CUST00186,2024-12-12,Completed,Miami,Seattle
+ORD00083986,CUST00116,2024-12-12,Completed,Portland,Detroit
+ORD00083987,CUST00166,2024-12-12,Completed,Charlotte,Seattle
+ORD00083993,CUST00052,2024-12-13,Completed,Seattle,Charlotte
+ORD00083994,CUST00100,2024-12-13,Completed,Denver,Kansas City
+ORD00083996,CUST00153,2024-12-13,Completed,Portland,Detroit
+ORD00084001,CUST00191,2024-12-13,Completed,Portland,Columbus
+ORD00084007,CUST00065,2024-12-13,Completed,New York,Columbus
+ORD00084012,CUST00016,2024-12-13,Completed,Columbus,Kansas City
+ORD00084014,CUST00016,2024-12-13,Completed,Philadelphia,Seattle
+ORD00084015,CUST00050,2024-12-13,Completed,New York,Philadelphia
+ORD00084027,CUST00016,2024-12-13,Completed,Kansas City,Indianapolis
+ORD00084040,CUST00070,2024-12-13,Completed,Las Vegas,Kansas City
+ORD00084046,CUST00004,2024-12-13,Completed,Chicago,Las Vegas
+ORD00084047,CUST00186,2024-12-13,Completed,Philadelphia,Seattle
+ORD00084059,CUST00116,2024-12-13,Completed,Kansas City,Portland
+ORD00084060,CUST00050,2024-12-13,Completed,Miami,Dallas
+ORD00084070,CUST00035,2024-12-14,Completed,Atlanta,Chicago
+ORD00084074,CUST00098,2024-12-14,Completed,Philadelphia,Seattle
+ORD00084105,CUST00007,2024-12-14,Completed,Philadelphia,Seattle
+ORD00084106,CUST00069,2024-12-14,Completed,Miami,Dallas
+ORD00084108,CUST00052,2024-12-14,Completed,Columbus,Kansas City
+ORD00084113,CUST00010,2024-12-14,Completed,Miami,Philadelphia
+ORD00084116,CUST00015,2024-12-14,Completed,Kansas City,Portland
+ORD00084120,CUST00108,2024-12-14,Completed,Seattle,Charlotte
+ORD00084134,CUST00154,2024-12-14,Completed,Minneapolis,Atlanta
+ORD00084135,CUST00114,2024-12-14,Completed,Chicago,Charlotte
+ORD00084144,CUST00158,2024-12-15,Completed,Houston,Detroit
+ORD00084145,CUST00065,2024-12-15,Completed,Houston,Seattle
+ORD00084149,CUST00172,2024-12-15,Completed,Columbus,Los Angeles
+ORD00084150,CUST00191,2024-12-15,Completed,Charlotte,Denver
+ORD00084153,CUST00050,2024-12-15,Completed,Columbus,Minneapolis
+ORD00084168,CUST00179,2024-12-15,Completed,Charlotte,Portland
+ORD00084171,CUST00015,2024-12-15,Completed,Kansas City,Portland
+ORD00084175,CUST00100,2024-12-15,Completed,Kansas City,Portland
+ORD00084177,CUST00186,2024-12-15,Completed,Memphis,Los Angeles
+ORD00084180,CUST00111,2024-12-15,Completed,Kansas City,Miami
+ORD00084184,CUST00095,2024-12-15,Completed,Memphis,Minneapolis
+ORD00084201,CUST00010,2024-12-15,Completed,Columbus,Los Angeles
+ORD00084202,CUST00008,2024-12-15,Completed,Houston,Detroit
+ORD00084204,CUST00007,2024-12-15,Completed,Atlanta,Miami
+ORD00084208,CUST00126,2024-12-16,Completed,Houston,Portland
+ORD00084211,CUST00111,2024-12-16,Completed,Philadelphia,Minneapolis
+ORD00084215,CUST00015,2024-12-16,Completed,Atlanta,Miami
+ORD00084235,CUST00040,2024-12-16,Completed,Memphis,Minneapolis
+ORD00084238,CUST00179,2024-12-16,Completed,Columbus,Los Angeles
+ORD00084241,CUST00165,2024-12-16,Completed,Las Vegas,Los Angeles
+ORD00084254,CUST00100,2024-12-16,Completed,Charlotte,Denver
+ORD00084255,CUST00049,2024-12-16,Completed,Kansas City,Charlotte
+ORD00084266,CUST00065,2024-12-16,Completed,Phoenix,Kansas City
+ORD00084268,CUST00153,2024-12-16,Completed,Memphis,Los Angeles
+ORD00084273,CUST00049,2024-12-16,Completed,Atlanta,Miami
+ORD00084278,CUST00070,2024-12-16,Completed,Houston,Memphis
+ORD00084282,CUST00116,2024-12-17,Completed,Seattle,Charlotte
+ORD00084287,CUST00165,2024-12-17,Completed,Detroit,Houston
+ORD00084304,CUST00186,2024-12-17,Completed,Phoenix,Kansas City
+ORD00084305,CUST00126,2024-12-17,Completed,Kansas City,Portland
+ORD00084321,CUST00172,2024-12-17,Completed,Seattle,Houston
+ORD00084322,CUST00111,2024-12-17,Completed,Charlotte,Memphis
+ORD00084337,CUST00016,2024-12-17,Completed,Philadelphia,Minneapolis
+ORD00084347,CUST00007,2024-12-17,Completed,Kansas City,Indianapolis
+ORD00084350,CUST00006,2024-12-18,Completed,Houston,Detroit
+ORD00084355,CUST00111,2024-12-18,Completed,Houston,Portland
+ORD00084357,CUST00040,2024-12-18,Completed,Atlanta,Miami
+ORD00084358,CUST00122,2024-12-18,Completed,Las Vegas,Kansas City
+ORD00084372,CUST00008,2024-12-18,Completed,Minneapolis,Los Angeles
+ORD00084374,CUST00153,2024-12-18,Completed,Phoenix,Philadelphia
+ORD00084377,CUST00184,2024-12-18,Completed,Seattle,Indianapolis
+ORD00084383,CUST00177,2024-12-18,Completed,Minneapolis,Atlanta
+ORD00084386,CUST00186,2024-12-18,Completed,Phoenix,Kansas City
+ORD00084388,CUST00042,2024-12-18,Completed,Dallas,New York
+ORD00084389,CUST00098,2024-12-18,Completed,Las Vegas,New York
+ORD00084405,CUST00016,2024-12-18,Completed,Chicago,Portland
+ORD00084407,CUST00111,2024-12-18,Completed,Kansas City,Miami
+ORD00084412,CUST00065,2024-12-18,Completed,Phoenix,Denver
+ORD00084413,CUST00070,2024-12-18,Completed,Miami,Denver
+ORD00084417,CUST00100,2024-12-18,Completed,Chicago,Los Angeles
+ORD00084418,CUST00108,2024-12-18,Completed,Columbus,Portland
+ORD00084419,CUST00004,2024-12-18,Completed,Portland,Columbus
+ORD00084424,CUST00177,2024-12-18,Completed,Houston,Portland
+ORD00084437,CUST00179,2024-12-19,Completed,Philadelphia,Minneapolis
+ORD00084438,CUST00180,2024-12-19,Completed,Miami,Denver
+ORD00084440,CUST00183,2024-12-19,Completed,Dallas,Denver
+ORD00084441,CUST00180,2024-12-19,Completed,Philadelphia,Indianapolis
+ORD00084445,CUST00015,2024-12-19,Completed,Minneapolis,Atlanta
+ORD00084454,CUST00177,2024-12-19,Completed,Kansas City,Los Angeles
+ORD00084473,CUST00179,2024-12-19,Completed,Columbus,Los Angeles
+ORD00084478,CUST00165,2024-12-19,Completed,Portland,Columbus
+ORD00084485,CUST00028,2024-12-19,Completed,Houston,Seattle
+ORD00084495,CUST00154,2024-12-19,Completed,Charlotte,Denver
+ORD00084497,CUST00153,2024-12-19,Completed,Kansas City,Atlanta
+ORD00084506,CUST00158,2024-12-19,Completed,Minneapolis,Los Angeles
+ORD00084512,CUST00109,2024-12-19,Completed,Philadelphia,Seattle
+ORD00084515,CUST00065,2024-12-19,Completed,Minneapolis,Atlanta
+ORD00084519,CUST00166,2024-12-20,Completed,Seattle,Houston
+ORD00084520,CUST00165,2024-12-20,Completed,Charlotte,Portland
+ORD00084521,CUST00098,2024-12-20,Completed,Seattle,Houston
+ORD00084531,CUST00183,2024-12-20,Completed,Detroit,Houston
+ORD00084534,CUST00008,2024-12-20,Completed,Chicago,Los Angeles
+ORD00084535,CUST00180,2024-12-20,Completed,Phoenix,Denver
+ORD00084538,CUST00095,2024-12-20,Completed,Miami,Denver
+ORD00084542,CUST00065,2024-12-20,Completed,Seattle,Houston
+ORD00084549,CUST00154,2024-12-20,Completed,Atlanta,Chicago
+ORD00084552,CUST00052,2024-12-20,Completed,Philadelphia,Minneapolis
+ORD00084580,CUST00183,2024-12-20,Completed,Phoenix,Philadelphia
+ORD00084585,CUST00180,2024-12-21,Completed,New York,Columbus
+ORD00084586,CUST00116,2024-12-21,Completed,Houston,Memphis
+ORD00084591,CUST00035,2024-12-21,Completed,Kansas City,Los Angeles
+ORD00084600,CUST00035,2024-12-21,Completed,Columbus,Portland
+ORD00084601,CUST00016,2024-12-21,Completed,Dallas,Denver
+ORD00084602,CUST00028,2024-12-21,Completed,Memphis,Minneapolis
+ORD00084608,CUST00052,2024-12-21,Completed,Kansas City,Miami
+ORD00084609,CUST00016,2024-12-21,Completed,Miami,Philadelphia
+ORD00084611,CUST00004,2024-12-21,Completed,Chicago,Los Angeles
+ORD00084613,CUST00172,2024-12-21,Completed,Houston,Portland
+ORD00084625,CUST00040,2024-12-21,Completed,Las Vegas,Los Angeles
+ORD00084627,CUST00166,2024-12-21,Completed,Kansas City,Miami
+ORD00084631,CUST00154,2024-12-21,Completed,Las Vegas,Dallas
+ORD00084633,CUST00177,2024-12-21,Completed,Atlanta,Miami
+ORD00084635,CUST00186,2024-12-21,Completed,Phoenix,Denver
+ORD00084636,CUST00186,2024-12-21,Completed,Portland,Detroit
+ORD00084646,CUST00166,2024-12-21,Completed,Columbus,Los Angeles
+ORD00084652,CUST00180,2024-12-22,Completed,Minneapolis,Los Angeles
+ORD00084661,CUST00070,2024-12-22,Completed,Phoenix,Philadelphia
+ORD00084667,CUST00006,2024-12-22,Completed,Chicago,Charlotte
+ORD00084677,CUST00007,2024-12-22,Completed,Kansas City,Charlotte
+ORD00084691,CUST00172,2024-12-22,Completed,Columbus,Portland
+ORD00084697,CUST00108,2024-12-22,Completed,Atlanta,Chicago
+ORD00084703,CUST00184,2024-12-22,Completed,Kansas City,Portland
+ORD00084709,CUST00126,2024-12-22,Completed,Phoenix,Kansas City
+ORD00084714,CUST00186,2024-12-22,Completed,Dallas,Denver
+ORD00084716,CUST00050,2024-12-22,Completed,Kansas City,Indianapolis
+ORD00084724,CUST00177,2024-12-22,Completed,Charlotte,Seattle
+ORD00084728,CUST00028,2024-12-22,Completed,Las Vegas,Los Angeles
+ORD00084731,CUST00154,2024-12-22,Completed,Chicago,Charlotte
+ORD00084735,CUST00153,2024-12-23,Completed,Detroit,Houston
+ORD00084737,CUST00050,2024-12-23,Completed,Houston,Memphis
+ORD00084743,CUST00004,2024-12-23,Completed,Dallas,Indianapolis
+ORD00084744,CUST00028,2024-12-23,Completed,Philadelphia,Seattle
+ORD00084749,CUST00050,2024-12-23,Completed,Las Vegas,New York
+ORD00084761,CUST00165,2024-12-23,Completed,Minneapolis,Houston
+ORD00084764,CUST00070,2024-12-23,Completed,Seattle,Indianapolis
+ORD00084766,CUST00100,2024-12-23,Completed,Chicago,Charlotte
+ORD00084773,CUST00179,2024-12-23,Completed,Phoenix,Philadelphia
+ORD00084781,CUST00049,2024-12-23,Completed,Columbus,Minneapolis
+ORD00084789,CUST00184,2024-12-23,Completed,Portland,Seattle
+ORD00084801,CUST00006,2024-12-23,Completed,Dallas,New York
+ORD00084806,CUST00166,2024-12-23,Completed,Chicago,Portland
+ORD00084807,CUST00158,2024-12-23,Completed,Phoenix,Denver
+ORD00084810,CUST00015,2024-12-23,Completed,Atlanta,Chicago
+ORD00084812,CUST00010,2024-12-23,Completed,Detroit,Houston
+ORD00084814,CUST00008,2024-12-23,Completed,Kansas City,Charlotte
+ORD00084817,CUST00049,2024-12-23,Completed,Kansas City,Miami
+ORD00084830,CUST00172,2024-12-24,Completed,Seattle,Indianapolis
+ORD00084832,CUST00006,2024-12-24,Completed,Memphis,Minneapolis
+ORD00084833,CUST00191,2024-12-24,Completed,Las Vegas,Dallas
+ORD00084841,CUST00065,2024-12-24,Completed,Columbus,Kansas City
+ORD00084845,CUST00111,2024-12-24,Completed,Charlotte,Denver
+ORD00084848,CUST00191,2024-12-24,Completed,Charlotte,Memphis
+ORD00084849,CUST00100,2024-12-24,Completed,Columbus,Kansas City
+ORD00084852,CUST00100,2024-12-24,Completed,Chicago,Charlotte
+ORD00084858,CUST00040,2024-12-24,Completed,Columbus,Los Angeles
+ORD00084877,CUST00016,2024-12-24,Completed,Philadelphia,Indianapolis
+ORD00084888,CUST00153,2024-12-25,Completed,Chicago,Los Angeles
+ORD00084892,CUST00116,2024-12-25,Completed,Las Vegas,Los Angeles
+ORD00084899,CUST00065,2024-12-25,Completed,Charlotte,Memphis
+ORD00084906,CUST00015,2024-12-25,Completed,Philadelphia,Indianapolis
+ORD00084907,CUST00158,2024-12-25,Completed,Kansas City,Indianapolis
+ORD00084913,CUST00108,2024-12-25,Completed,Seattle,Charlotte
+ORD00084914,CUST00015,2024-12-25,Completed,Chicago,Charlotte
+ORD00084921,CUST00172,2024-12-25,Completed,Phoenix,Philadelphia
+ORD00084922,CUST00116,2024-12-25,Completed,Chicago,Los Angeles
+ORD00084924,CUST00065,2024-12-25,Completed,Philadelphia,Minneapolis
+ORD00084926,CUST00015,2024-12-25,Completed,Kansas City,Los Angeles
+ORD00084934,CUST00070,2024-12-25,Completed,New York,Philadelphia
+ORD00084936,CUST00052,2024-12-25,Completed,Dallas,New York
+ORD00084938,CUST00028,2024-12-25,Completed,Las Vegas,New York
+ORD00084945,CUST00004,2024-12-26,Completed,Kansas City,Los Angeles
+ORD00084957,CUST00098,2024-12-26,Completed,Seattle,Houston
+ORD00084960,CUST00183,2024-12-26,Completed,Detroit,Houston
+ORD00084964,CUST00177,2024-12-26,Completed,Charlotte,Denver
+ORD00084970,CUST00100,2024-12-26,Completed,Houston,Seattle
+ORD00084985,CUST00007,2024-12-26,Completed,Portland,Detroit
+ORD00084986,CUST00126,2024-12-26,Completed,Philadelphia,Seattle
+ORD00084987,CUST00010,2024-12-26,Completed,Chicago,Los Angeles
+ORD00084991,CUST00126,2024-12-26,Completed,Miami,Philadelphia
+ORD00084992,CUST00172,2024-12-26,Completed,Portland,Seattle
+ORD00085001,CUST00109,2024-12-26,Completed,Portland,Columbus
+ORD00085010,CUST00010,2024-12-26,Completed,Miami,Philadelphia
+ORD00085013,CUST00165,2024-12-26,Completed,Kansas City,Indianapolis
+ORD00085028,CUST00111,2024-12-27,Completed,Miami,Seattle
+ORD00085032,CUST00069,2024-12-27,Completed,Kansas City,Los Angeles
+ORD00085040,CUST00172,2024-12-27,Completed,Columbus,Minneapolis
+ORD00085046,CUST00095,2024-12-27,Completed,Philadelphia,Seattle
+ORD00085047,CUST00183,2024-12-27,Completed,Phoenix,Kansas City
+ORD00085050,CUST00116,2024-12-27,Completed,Phoenix,Kansas City
+ORD00085055,CUST00172,2024-12-27,Completed,Chicago,Las Vegas
+ORD00085058,CUST00158,2024-12-27,Completed,Seattle,Charlotte
+ORD00085061,CUST00177,2024-12-27,Completed,Minneapolis,Atlanta
+ORD00085071,CUST00098,2024-12-27,Completed,Miami,Denver
+ORD00085075,CUST00116,2024-12-27,Completed,Houston,Detroit
+ORD00085078,CUST00177,2024-12-27,Completed,Seattle,Charlotte
+ORD00085080,CUST00165,2024-12-27,Completed,Columbus,Portland
+ORD00085086,CUST00100,2024-12-27,Completed,Philadelphia,Minneapolis
+ORD00085089,CUST00065,2024-12-27,Completed,Kansas City,Indianapolis
+ORD00085092,CUST00035,2024-12-28,Completed,Kansas City,Indianapolis
+ORD00085093,CUST00177,2024-12-28,Completed,Phoenix,Denver
+ORD00085108,CUST00172,2024-12-28,Completed,Denver,Kansas City
+ORD00085109,CUST00052,2024-12-28,Completed,New York,Columbus
+ORD00085111,CUST00004,2024-12-28,Completed,Columbus,Kansas City
+ORD00085112,CUST00035,2024-12-28,Completed,Dallas,Denver
+ORD00085122,CUST00126,2024-12-28,Completed,Philadelphia,Seattle
+ORD00085124,CUST00007,2024-12-28,Completed,Houston,Seattle
+ORD00085140,CUST00095,2024-12-28,Completed,Portland,Columbus
+ORD00085149,CUST00122,2024-12-28,Completed,Chicago,Las Vegas
+ORD00085159,CUST00179,2024-12-28,Completed,Houston,Portland
+ORD00085175,CUST00015,2024-12-29,Completed,Chicago,Las Vegas
+ORD00085176,CUST00095,2024-12-29,Completed,Houston,Seattle
+ORD00085185,CUST00111,2024-12-29,Completed,Philadelphia,Minneapolis
+ORD00085186,CUST00035,2024-12-29,Completed,Memphis,Los Angeles
+ORD00085187,CUST00095,2024-12-29,Completed,Atlanta,Chicago
+ORD00085188,CUST00186,2024-12-29,Completed,Houston,Seattle
+ORD00085202,CUST00177,2024-12-29,Completed,Seattle,Charlotte
+ORD00085206,CUST00180,2024-12-29,Completed,Minneapolis,Houston
+ORD00085211,CUST00016,2024-12-29,Completed,Miami,Seattle
+ORD00085231,CUST00114,2024-12-29,Completed,Chicago,Los Angeles
+ORD00085232,CUST00028,2024-12-29,Completed,Chicago,Las Vegas
+ORD00085233,CUST00165,2024-12-29,Completed,Kansas City,Charlotte
+ORD00085239,CUST00191,2024-12-29,Completed,Chicago,Charlotte
+ORD00085241,CUST00191,2024-12-29,Completed,Seattle,Charlotte
+ORD00085244,CUST00040,2024-12-29,Completed,Miami,Dallas
+ORD00085249,CUST00191,2024-12-30,Completed,Minneapolis,Los Angeles
+ORD00085251,CUST00108,2024-12-30,Completed,New York,Philadelphia
+ORD00085263,CUST00069,2024-12-30,Completed,Charlotte,Memphis
+ORD00085266,CUST00184,2024-12-30,Completed,Philadelphia,New York
+ORD00085267,CUST00165,2024-12-30,Completed,Columbus,Minneapolis
+ORD00085270,CUST00007,2024-12-30,Completed,Kansas City,Charlotte
+ORD00085273,CUST00116,2024-12-30,Completed,Miami,Denver
+ORD00085274,CUST00122,2024-12-30,Completed,Las Vegas,Kansas City
+ORD00085275,CUST00153,2024-12-30,Completed,Phoenix,Denver
+ORD00085277,CUST00122,2024-12-30,Completed,Portland,Seattle
+ORD00085282,CUST00095,2024-12-30,Completed,Phoenix,Denver
+ORD00085283,CUST00004,2024-12-30,Completed,Columbus,Los Angeles
+ORD00085291,CUST00186,2024-12-30,Completed,Las Vegas,Kansas City
+ORD00085293,CUST00069,2024-12-30,Completed,Denver,Kansas City
+ORD00085295,CUST00016,2024-12-30,Completed,Detroit,Houston
+ORD00085296,CUST00154,2024-12-30,Completed,Kansas City,Charlotte
+ORD00085308,CUST00049,2024-12-30,Completed,Las Vegas,Kansas City
+ORD00085309,CUST00016,2024-12-30,Completed,Philadelphia,New York
+ORD00085323,CUST00035,2024-12-30,Completed,Kansas City,Charlotte
+ORD00085338,CUST00010,2024-12-31,Completed,Minneapolis,Houston
+ORD00085343,CUST00179,2024-12-31,Completed,Atlanta,Miami
+ORD00085350,CUST00004,2024-12-31,Completed,Kansas City,Indianapolis
+ORD00085353,CUST00015,2024-12-31,Completed,Charlotte,Memphis
+ORD00085358,CUST00006,2024-12-31,Completed,Dallas,Indianapolis
+ORD00085370,CUST00040,2024-12-31,Completed,Charlotte,Memphis
+ORD00085373,CUST00065,2024-12-31,Completed,Miami,Seattle
+ORD00085386,CUST00040,2024-12-31,Completed,Portland,Seattle
+ORD00085394,CUST00008,2024-12-31,Completed,Las Vegas,Kansas City
+ORD00085399,CUST00065,2024-12-31,Completed,Houston,Memphis
+ORD00085406,CUST00016,2024-12-31,Completed,Minneapolis,Atlanta
+ORD00085407,CUST00179,2024-12-31,Completed,Dallas,Denver
